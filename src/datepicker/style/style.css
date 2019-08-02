@@ -42,3 +42,11 @@
 .datepicker .datepicker-input:hover {
   border-color: #1890ff;
 }
+.hidden {
+  display: none;
+  transition: all 0.3s;
+}
+.show {
+  display: block;
+  transition: all 0.3s;
+}
