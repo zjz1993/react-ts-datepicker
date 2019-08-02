@@ -1,0 +1,10 @@
+.datepicker-footer {
+  padding: 0 12px;
+  line-height: 38px;
+  border-top: 1px solid #e8e8e8;
+  text-align: center;
+}
+.datepicker-footer .today-btn {
+  color: #4aa4fb;
+  cursor: pointer;
+}
